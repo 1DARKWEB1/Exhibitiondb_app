@@ -1,0 +1,30 @@
+# Сборочные папки
+build-*/
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.pdb
+
+# Qt Creator временные файлы
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
+
+# Makefiles
+Makefile
+*.Makefile
+
+# C++ временные файлы
+*.tmp
+*.log
+*.bak
+*.swp
+
+# macOS
+.DS_Store
